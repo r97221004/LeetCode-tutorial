@@ -22,7 +22,7 @@ class Solution:
         
         return result[-1]
 
-p =Solution()        
+p = Solution()        
 rowIndex = 3
 print(p.getRow(3))
 
